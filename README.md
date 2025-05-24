@@ -34,4 +34,5 @@ o	Acceptance rates are notably lower among customers with loan defaults.
 3.	Risk Assessment: Avoid prioritizing customers with existing loan defaults, as their acceptance rate is notably low.
 
 #Conclusion
+
 This project demonstrates how data analytics and visualization can drive actionable insights to enhance customer engagement and optimize marketing strategies.
