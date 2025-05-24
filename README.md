@@ -20,6 +20,7 @@ o	Married individuals had the highest call engagements.
 o	Acceptance rates are notably lower among customers with loan defaults.
 
 #Deliverables
+
 •	Excel File: Contains cleaned data, pivot tables, and the final dashboard.
 •	Documentation: Summarizes methodology, insights, and recommendations.
 •	Presentation Slides: Highlights the analysis and provides business recommendations.
